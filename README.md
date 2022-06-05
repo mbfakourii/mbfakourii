@@ -1,5 +1,4 @@
 ### Hey 👋, I'm Mohammad Bagher
-[![Github](https://img.shields.io/github/followers/mbfakourii?label=Follow&style=social)](https://github.com/mbfakourii)
 
 <!-- Light Mode -->
 <div align="center"> 
