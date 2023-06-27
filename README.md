@@ -1,6 +1,8 @@
 ### Hey 👋, I'm Mohammad Bagher
 
-I am a software developer that's very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mbfakourii)
+I am a software developer that's very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mbfakourii)
 
 <!-- Light Mode -->
 <div align="center"> 
